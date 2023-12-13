@@ -10,7 +10,7 @@ A simple web application using Vite, Axios, and JavaScript to fetch and filter b
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+  - [Installation](#getting-started)
 
 ## Introduction
 
