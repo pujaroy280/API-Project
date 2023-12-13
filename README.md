@@ -1,4 +1,42 @@
-# API-Project
+# API-Project based on Open Library Book Records
+
+# Vite App - Book Filtering
+
+A simple web application using Vite, Axios, and JavaScript to fetch and filter books based on their published year.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+This project is a basic web application that fetches book data from the Open Library API using Axios. It allows users to filter and display books based on their published year.
+
+## Features
+
+- Fetches book data from Open Library API.
+- Allows users to filter books based on their published year.
+- Displays filtered book titles dynamically.
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
 
 
 
