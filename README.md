@@ -11,9 +11,6 @@ A simple web application using Vite, Axios, and JavaScript to fetch and filter b
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -45,11 +42,18 @@ This project is a basic web application that fetches book data from the Open Lib
 
 Make sure you have Node.js installed on your machine.
 
-### Installation
+Follow these steps to run the web application:
 
-1. Clone the repository:
+```bash
+// Navigate to the project directory:
+cd your-repo
 
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
+// Install dependencies:
+npm install
+
+// Run the application:
+npm run dev
+```
+The application will be available at http://localhost:5173/.
 
 
