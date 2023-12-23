@@ -2,7 +2,7 @@
 
 # Vite App - Book Filtering
 
-A simple web application using Vite, Axios, and JavaScript to fetch and filter books based on their published year.
+A simple web application using Vite, Axios, and JavaScript to fetch and filter books (title and author) based on their published year.
 
 ## Table of Contents
 
@@ -22,25 +22,26 @@ This project is a basic web application that fetches book data from the Open Lib
 - Allows users to filter books based on their published year.
 - Displays filtered book titles dynamically.
 
-![image](https://github.com/pujaroy280/API-Project/assets/62675121/1742ac03-3b14-4b6e-88f5-c50abf8410ce)
+![image](https://github.com/pujaroy280/API-Project/assets/62675121/40b3ba38-b451-4370-8eaa-ebc7ce713c60)
 The overall UI of the API project when the user runs the dev site.
 
-![image](https://github.com/pujaroy280/API-Project/assets/62675121/5a5052d4-4db1-4a57-a03a-7d2e70f6a966)
+![image](https://github.com/pujaroy280/API-Project/assets/62675121/ab47806b-cf68-451c-be6c-0b026b81276b)
 This UI displays the title of the books that were published in 1999, once the user clicks on the 1999 button.
 
-![image](https://github.com/pujaroy280/API-Project/assets/62675121/3485d40b-e501-443a-a3a0-e8d6467baabf)
+![image](https://github.com/pujaroy280/API-Project/assets/62675121/ba9e98cd-0766-4249-b5f0-46ab3c356a37)
 This UI displays the title of the books that were published in 2000, once the user clicks on the 2000 button.
 
-![image](https://github.com/pujaroy280/API-Project/assets/62675121/0303fc95-a942-4959-b475-756eb848ad73)
+![image](https://github.com/pujaroy280/API-Project/assets/62675121/3dacf3fd-4ed6-4b62-b339-79f9350f99ad)
 This UI displays the title of the books that were published in 2002, once the user clicks on the 2002 button.
 
-![image](https://github.com/pujaroy280/API-Project/assets/62675121/aad3dc0b-71ef-4006-90c5-fc6104a536de)
+![image](https://github.com/pujaroy280/API-Project/assets/62675121/19bfb8e9-6e5f-4abe-a1e8-d6efe6ba86dd)
 This UI displays the title of the books that were published in 2014, once the user clicks on the 2014 button.
 
-![image](https://github.com/pujaroy280/API-Project/assets/62675121/6f1e3d1e-7e62-4032-b88f-d592ae5bbae7)
+![image](https://github.com/pujaroy280/API-Project/assets/62675121/762bde20-648a-4d57-87b8-26525ba89709)
 This UI displays the title of the books that were published in 2016, once the user clicks on the 2016 button.
 
-![image](https://github.com/pujaroy280/API-Project/assets/62675121/e118e204-79fd-4c65-b153-6d9496b38ebf)
+![image](https://github.com/pujaroy280/API-Project/assets/62675121/95a4034c-f213-4936-ab3d-c6378856ce77)
+![image](https://github.com/pujaroy280/API-Project/assets/62675121/b77de9c7-3393-45c7-9129-fc683512ac41)
 This UI displays the titles of all the books that patrons are currently reading from the Open Library, once the user clicks on the Show All button.
 
 ## Getting Started
