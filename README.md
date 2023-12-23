@@ -22,7 +22,7 @@ This project is a basic web application that fetches book data from the Open Lib
 - Fetches book data from Open Library API: https://openlibrary.org/dev/docs/api/mybooks and https://openlibrary.org/people/mekBot/books/currently-reading.json
 - Allows users to filter books based on their published year.
 - Displays filtered books based on the title and author dynamically.
-- Books are sorted alphabetically based on titles.
+- Books are sorted alphabetically by title.
 
 ![image](https://github.com/pujaroy280/API-Project/assets/62675121/40b3ba38-b451-4370-8eaa-ebc7ce713c60)
 The overall UI of the API project when the user runs the dev site.
