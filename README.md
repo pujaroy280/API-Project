@@ -9,6 +9,7 @@ A simple web application using Vite, Axios, and JavaScript to fetch and filter b
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
   - [Prerequisites](#prerequisites)
   - [Installation](#getting-started)
 
@@ -44,6 +45,15 @@ This UI displays the title of the books that were published in 2016, once the us
 ![image](https://github.com/pujaroy280/API-Project/assets/62675121/b77de9c7-3393-45c7-9129-fc683512ac41)
 This UI displays the titles of all the books that patrons are currently reading from the Open Library, once the user clicks on the Show All button.
 
+## Project Structure
+- `api-call.js`: Module for making API calls.
+- `main.js`: Main script that integrates other modules.
+- `display.js`: Module for displaying books.
+- `filter.js`: Module for filtering and sorting books.
+- `styles.css`: Stylesheet for styling the HTML.
+- `index.html`: HTML file with the structure of the project.
+- `README.md`: This file provides documentation about the overall project and how to run it in your local machine.
+  
 ## Getting Started
 
 ### Prerequisites
